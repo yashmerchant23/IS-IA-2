@@ -2,9 +2,9 @@
 
 The Security Tool Used for the IS IA-2 IS MetaSploit
 
-The report link : https://drive.google.com/file/d/1yoFcqF5vXk6kmaO578o74xrGgX3VCidM/view?usp=drive_link
+The report link : 
 
-the youtube video: https://youtu.be/ZXEmVbsZb6Y
+the youtube video: 
 
 commands
 
